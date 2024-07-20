@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sujxl8
-- 👀 I’m interested in codex
-- 🌱 I’m currently learning python,c,javax
-- 💞️ I’m looking to collaborate on x
-- 📫 linkedinx sujal asija
+- 👋 Hi, I’m @5suj,l
+- 👀 I’m interested in code.
+- 🌱 I’m currently learning python,c,java.
+- 💞️ I’m looking to collaborate on..
+- 📫 linkedin- sujal asija
 
 <!---
 sujxl8/sujxl8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5suj,l
+- 👋 Hi, I’m @5suj.l
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning python,c,java.
 - 💞️ I’m looking to collaborate on..
